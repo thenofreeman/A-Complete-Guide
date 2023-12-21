@@ -156,14 +156,14 @@ Number systems are ...
 - `0x1`
 - `0b1`
 - `01`
-#### Exercises
+##### Exercises
 1. Express the decimal number 245 in Binary, and Hexadecimal.
 2. Another common number system is Octal -- base 8. Write the following characters in Octal:
     - 4
     - 9
     - 256
     - 2027
-#### Research
+##### Research
 1. Find another number system apart from the ones mentioned in this section and try to answer the following questions: 
     - What characters are used to represent its values? 
     - What are the use cases for it? 
@@ -411,15 +411,19 @@ Advanced Editors (see sections below)
 ### Python
 ### C
 ### Assembly Language
-### Lisp
+### End of Section
 
-Many experienced programmers may be reading this and saying: "Why Lisp? It's such an outdated language, and the specific language I love is so much more important than this one." To that I say: no.
+##### Research
 
-The few languages introduced earlier on in this part cover a good range of programming styles and syntaxes that most people will ever be exposed to. We now introduce Lisp because it is so different from the previously mentioned languages that it will train you to think better as a programmer and computer scientist and less like a hobbyist. More importantly than learning a specific language is being able to pick up any language that a team you want to join or project you want to work on is using. 
+1. Find a new language and create the equivalent of a "Hello, World" program in that language. Then, answer some of the following questions:
+    - What style does this language use?
+    - What are the benefits of using this language over the ones learned previously?
+    - For what purpose was this language developed?
 
-However, as with the previous section on Assembly Language, we don't consider this section as optional but, if you're in a hurry, come back to it later on in your education. Or, better yet, skip this section but replace it with a self-guided education in another modernly-unconventional language. Or just go through this section.
-
-With all that ado, let us learn a bit of Lisp.
+    A few unconventional languages to consider:
+    - lisp
+    - vimscript
+    - ruby
 
 # PART IV - The Developer Environment
 
