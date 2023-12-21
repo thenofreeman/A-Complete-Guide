@@ -1,5 +1,7 @@
 # Computer Science: A Complete Guide
 
+**This book is a complete work-in-progress. And should not be used as educational material.**
+
 ## Table of Contents
 - [Computer Science: A Complete Guide](#computer-science-a-complete-guide)
   - [Table of Contents](#table-of-contents)
