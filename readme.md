@@ -1,6 +1,6 @@
 # Computer Science: A Complete Guide
 
-**This book is a complete work-in-progress. And should not be used as educational material.**
+**This book is a work-in-progress. And should not be used as educational material.**
 
 ## Table of Contents
 - [Computer Science: A Complete Guide](#computer-science-a-complete-guide)
@@ -321,23 +321,32 @@ if CONDITION:
 
 ##### if-else
 
-```
-if CONDITION:
-  // do something
-else 
-  // do something
-```
+An `else` can be appended to a if-statement as a catch-all for to be run when the if condition is not met.
 
 ```
 if CONDITION:
-  // do something
-else if CONDITION:
-  // do something
-else 
-  // do something
+  // do something if true
+else:
+  // do something if false
 ```
+
+If you want more statements before the catch-all `else`, add `else if` statements with their own conditions.
+
+```
+if CONDITION:
+  // do something if true
+else if CONDITION:
+  // do something if the first condition is false
+  // but the second condition is true
+else:
+  // do something if all conditions are false
+```
+
+You can arbitrarily add more `else if` conditions as needed, but an if statement can only have one `if` condition and one `else`.
 
 ##### switch
+
+As you can see, chaining if-else-ifs can become a mess. The switch statement was invented to clear up this headache.
 
 ```
 switch VALUE:
