@@ -49,6 +49,12 @@
 
 ## [Part VII - Mathematics for Computer Science](./part-7-mathematics-for-cs/index.md)
 
+- [Discrete Mathematics](./part-7-mathematics-for-cs/discrete-mathematics.md)
+- [Algebra and Trigonometry](./part-7-mathematics-for-cs/algebra-and-trig.md)
+- [Linear Algebra](./part-7-mathematics-for-cs/linear-algebra.md)
+- [Calculus](./part-7-mathematics-for-cs/calculus.md)
+- [Probability and Statistics](./part-7-mathematics-for-cs/prob-and-stats.md)
+
 ## [Part VIII - Advanced Topics In Computer Science](./part-8-advanced-cs-topics/index.md)
 
 - [AI, Machine Learning and Data Science](./part-8-advanced-cs-topics/xxxxxxxxxx)
