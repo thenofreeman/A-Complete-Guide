@@ -96,3 +96,5 @@ If still have a taste for what Vim can offer, the next section goes into more us
 ##### Searching
 
 ### Emacs
+
+### VSCode
