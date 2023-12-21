@@ -13,6 +13,9 @@
 ## [Part II - Introduction to Computer Programming](./part-2-intro-to-prog/index.md)
 
 - [Programming Basics](./part-2-intro-to-prog/programming-basics.md)
+- [Picking a Language](./part-2-intro-to-prog/picking-a-language.md)
+- [Editors and IDEs](./part-2-intro-to-prog/editors-and-ide.md)
+- [Compilers and Interpreters](./part-2-intro-to-prog/compilers-and-interpreters.md)
 
 ## [Part III - Programming Languages](./part-3-prog-languages/index.md)
 

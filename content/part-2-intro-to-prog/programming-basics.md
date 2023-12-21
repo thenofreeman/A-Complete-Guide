@@ -200,31 +200,3 @@ foreach ITEM in LIST:
 ```
 
 ### Functions
-
-### Picking a Language
-#### Programming Styles
-
-OOP/Functional
-Procedural/...
-Language Styles
-- C-style
-- Lisp
-- pythonic?
-
-Indentation, Spacing and Newlines
-Nesting
-Case
-- camelCase
-- PascalCase
-- snake_case
-- kebab-case
-- CONST_CASE
-- ccase
-
-### Editors and IDEs
-
-VSCode
-JetBrains Suite
-Advanced Editors (see sections below)
-
-### Compilers and Interpreters
