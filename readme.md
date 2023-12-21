@@ -111,12 +111,27 @@
   - [AI, Machine Learning and Data Science](#ai-machine-learning-and-data-science)
   - [Computer Vision](#computer-vision)
   - [Algorithm Analysis](#algorithm-analysis)
+- [Part XX - Applying Your Skills](#part-xx---applying-your-skills)
   - [Projects](#projects)
+    - [Personal Projects](#personal-projects)
+        - [Maintaining Your Project](#maintaining-your-project)
+        - [Packaging Your Project](#packaging-your-project)
+        - [Releasing Your Project](#releasing-your-project)
+    - [Working With Open Source Projects](#working-with-open-source-projects)
+      - [Finding Projects](#finding-projects)
+    - [Working With Projects At Work](#working-with-projects-at-work)
+    - [Startups](#startups)
   - [Work](#work)
-  - [Appendix](#appendix)
-    - [Symbols](#symbols)
-        - [Greek Alphabet](#greek-alphabet)
-  - [Other](#other)
+- [Appendix](#appendix)
+  - [Appendix A - Symbols](#appendix-a---symbols)
+    - [Greek Alphabet](#greek-alphabet)
+    - [Mathematical Symbols](#mathematical-symbols)
+  - [Appendix B - A Big List Of Projects](#appendix-b---a-big-list-of-projects)
+- [Solution Manual](#solution-manual)
+  - [Exercises](#exercises-1)
+  - [Projects](#projects-1)
+  - [Research Questions](#research-questions)
+- [Other](#other)
 
 ## Preface
 ## About the Authors
@@ -588,6 +603,7 @@ Pandas
 ## Data Structures and Algorithms
 ## Design Patterns
 ## Mathematics for Computer Science
+
 College Algebra and Pre-Calculus
 Discrete Mathematics
 Linear Algebra
@@ -601,27 +617,44 @@ Calculus
 - Derivative Tests
 Probability
 Statistics
+
 # Part XX - Advanced Topic In Computer Science
+
 ## AI, Machine Learning and Data Science
 ## Computer Vision
 ## Algorithm Analysis
+
+# Part XX - Applying Your Skills
+
 ## Projects
-- Starting Project
-- Maintaining Projects
-- Finding Projects
-- Packaging Projects
-- Releasing Projects
-- Suggested Projects
+
+### Personal Projects
+
+##### Maintaining Your Project
+##### Packaging Your Project
+##### Releasing Your Project
+
+### Working With Open Source Projects
+
+#### Finding Projects
+
+### Working With Projects At Work
+
+### Startups
+
 ## Work
+
 Finding a Job
 Building a Resume
 Building a Portfolio
 Marketing Yourself
 On-the-Job Skills
-## Appendix
-### Symbols
 
-##### Greek Alphabet
+# Appendix
+
+## Appendix A - Symbols
+
+### Greek Alphabet
 
 <table>
   <tr>
@@ -747,7 +780,7 @@ On-the-Job Skills
   </tr>
 </table>
 
-Common Mathematical Symbols
+### Mathematical Symbols
 
 <table>
   <tr>
@@ -828,7 +861,16 @@ Common Mathematical Symbols
   </tr>
 </table>
 
-## Other
+## Appendix B - A Big List Of Projects
+
+# Solution Manual
+
+## Exercises
+## Projects
+## Research Questions
+
+# Other
+
 - Operating Systems
     - Unix-Like vs DOS
     - Windows
