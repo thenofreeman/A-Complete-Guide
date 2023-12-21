@@ -5,7 +5,9 @@
   - [Table of Contents](#table-of-contents)
   - [Preface](#preface)
   - [About the Authors](#about-the-authors)
-  - [Introduction](#introduction)
+- [Part I - A Introduction to Computer Science](#part-i---a-introduction-to-computer-science)
+  - [Getting Started](#getting-started)
+    - [What is Computer Science](#what-is-computer-science)
     - [Why Study Computer Science](#why-study-computer-science)
     - [What This Book Is About](#what-this-book-is-about)
     - [What This Book Is NOT About](#what-this-book-is-not-about)
@@ -14,8 +16,16 @@
     - [How To Read This Book](#how-to-read-this-book)
   - [The Field of Computer Science](#the-field-of-computer-science)
   - [A Brief History of Computer Science](#a-brief-history-of-computer-science)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Basics of Computing](#basics-of-computing)
     - [Number Systems](#number-systems)
+        - [Number Systems](#number-systems-1)
+        - [Decimal](#decimal)
+        - [Binary](#binary)
+        - [Hexadecimal](#hexadecimal)
+        - [Conversions](#conversions)
+        - [Number System Indicators](#number-system-indicators)
+      - [Exercises](#exercises)
+      - [Research](#research)
   - [Introduction to Programming](#introduction-to-programming)
     - [Basic Concepts](#basic-concepts)
       - ["Hello, World!"](#hello-world)
@@ -41,7 +51,7 @@
         - [What is Vim?](#what-is-vim)
         - [Why use Vim?](#why-use-vim)
         - [The General Idea](#the-general-idea)
-        - [Getting Started](#getting-started)
+        - [Getting Started](#getting-started-1)
         - [Moving around](#moving-around)
         - [Editing Text](#editing-text)
         - [Selecting Text](#selecting-text)
@@ -66,15 +76,21 @@
       - [Print-Line Debugging](#print-line-debugging)
     - [Testing](#testing)
     - [Logging](#logging)
+  - [Computer Networking](#computer-networking)
   - [The Web](#the-web)
     - [How the Internet Works](#how-the-internet-works)
     - [HTML](#html)
     - [CSS](#css)
     - [JavaScript on the Browser](#javascript-on-the-browser)
     - [ReactJS](#reactjs)
+  - [Machine Learning w/ Python](#machine-learning-w-python)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Design Patterns](#design-patterns)
   - [Mathematics for Computer Science](#mathematics-for-computer-science)
+- [Part XX - Advanced Topic In Computer Science](#part-xx---advanced-topic-in-computer-science)
+  - [AI, Machine Learning and Data Science](#ai-machine-learning-and-data-science)
+  - [Computer Vision](#computer-vision)
+  - [Algorithm Analysis](#algorithm-analysis)
   - [Projects](#projects)
   - [Work](#work)
   - [Appendix](#appendix)
@@ -83,7 +99,9 @@
 
 ## Preface
 ## About the Authors
-## Introduction
+# Part I - A Introduction to Computer Science
+## Getting Started
+### What is Computer Science
 ### Why Study Computer Science
 ### What This Book Is About
 ### What This Book Is NOT About
@@ -91,14 +109,41 @@
 ### Who This Book Is For
 ### How To Read This Book
 ## The Field of Computer Science
+
 ## A Brief History of Computer Science
-## Introduction to Computer Science
+
+## Basics of Computing
 
 ### Number Systems
-Decimal
-Binary
-Hexadecimal
-Octal
+
+<div style="border: 1px solid grey; border-radius: 8px; padding: 0 1.5em">
+
+##### Number Systems
+
+Number systems are ...
+
+##### Decimal
+##### Binary
+##### Hexadecimal
+##### Conversions
+##### Number System Indicators
+- `0x1`
+- `0b1`
+- `01`
+#### Exercises
+1. Express the decimal number 245 in Binary, and Hexadecimal.
+2. Another common number system is Octal -- base 8. Write the following characters in Octal:
+    - 4
+    - 9
+    - 256
+    - 2027
+#### Research
+1. Find another number system apart from the ones mentioned in this section and try to answer the following questions: 
+    - What characters are used to represent its values? 
+    - What are the use cases for it? 
+2. As explained, most of the common number systems have indicators to distinguish them from numbers of other systems, how is Octal represented in this manner?
+
+</div>
 
 ## Introduction to Programming
 
@@ -293,12 +338,17 @@ If still have a taste for what Vim can offer, the next section goes into more us
 ### Testing
 ### Logging
 
+## Computer Networking
 ## The Web
 ### How the Internet Works
 ### HTML
 ### CSS
 ### JavaScript on the Browser
 ### ReactJS
+## Machine Learning w/ Python
+Scikit-learn
+Pandas
+...
 
 ## Data Structures and Algorithms
 ## Design Patterns
@@ -316,6 +366,10 @@ Calculus
 - Derivative Tests
 Probability
 Statistics
+# Part XX - Advanced Topic In Computer Science
+## AI, Machine Learning and Data Science
+## Computer Vision
+## Algorithm Analysis
 ## Projects
 - Starting Project
 - Maintaining Projects
