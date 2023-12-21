@@ -6,11 +6,8 @@
 - [Computer Science: A Complete Guide](#computer-science-a-complete-guide)
   - [Table of Contents](#table-of-contents)
   - [Preface](#preface)
-  - [About the Authors](#about-the-authors)
-- [Part I - A Introduction to Computer Science](#part-i---a-introduction-to-computer-science)
-  - [Getting Started](#getting-started)
-    - [What is Computer Science](#what-is-computer-science)
-    - [Why Study Computer Science](#why-study-computer-science)
+  - [Introduction](#introduction)
+    - [About the Authors](#about-the-authors)
     - [What This Book Is About](#what-this-book-is-about)
     - [What This Book Is NOT About](#what-this-book-is-not-about)
     - [Motivation For Writing This Book](#motivation-for-writing-this-book)
@@ -18,6 +15,10 @@
     - [How To Read This Book](#how-to-read-this-book)
         - [Exercises, Projects and Research](#exercises-projects-and-research)
         - [Style and Notation](#style-and-notation)
+- [Part I - A Introduction to Computer Science](#part-i---a-introduction-to-computer-science)
+  - [Getting Started](#getting-started)
+    - [What is Computer Science](#what-is-computer-science)
+    - [Why Study Computer Science](#why-study-computer-science)
   - [The Field of Computer Science](#the-field-of-computer-science)
   - [A Brief History of Computer Science](#a-brief-history-of-computer-science)
   - [Basics of Computing](#basics-of-computing)
@@ -30,7 +31,7 @@
         - [Number System Indicators](#number-system-indicators)
       - [Exercises](#exercises)
       - [Research](#research)
-- [Part II - Computer Programming](#part-ii---computer-programming)
+- [Part II - Introduction to Computer Programming](#part-ii---introduction-to-computer-programming)
   - [Programming Basics](#programming-basics)
     - ["Hello, World!"](#hello-world)
         - ["Hello, World!" Examples](#hello-world-examples)
@@ -58,13 +59,14 @@
       - [Programming Styles](#programming-styles)
     - [Editors and IDEs](#editors-and-ides)
     - [Compilers and Interpreters](#compilers-and-interpreters)
-  - [Programming Languages](#programming-languages)
+- [Part III - Programming Languages](#part-iii---programming-languages)
     - [JavaScript](#javascript)
     - [C++](#c)
     - [Python](#python)
     - [C](#c-1)
     - [Assembly Language](#assembly-language)
-  - [Developer Environment](#developer-environment)
+    - [Lisp](#lisp)
+- [PART IV - The Developer Environment](#part-iv---the-developer-environment)
     - [The Command Line](#the-command-line)
     - [Interlude: Buffers, Windows, Screens](#interlude-buffers-windows-screens)
     - [Vim](#vim)
@@ -134,11 +136,8 @@
 - [Other](#other)
 
 ## Preface
-## About the Authors
-# Part I - A Introduction to Computer Science
-## Getting Started
-### What is Computer Science
-### Why Study Computer Science
+## Introduction
+### About the Authors
 ### What This Book Is About
 ### What This Book Is NOT About
 ### Motivation For Writing This Book
@@ -161,6 +160,13 @@ With commands and other _, things wrapped in:
 - chevrons, `<...>`, are required, but variable.
 
 All other text is meant to be verbatim, unless otherwise obvious (such as personalized strings).
+
+# Part I - A Introduction to Computer Science
+
+## Getting Started
+
+### What is Computer Science
+### Why Study Computer Science
 
 ## The Field of Computer Science
 
@@ -199,7 +205,7 @@ Number systems are ...
 
 </div>
 
-# Part II - Computer Programming
+# Part II - Introduction to Computer Programming
 
 ## Programming Basics
 
@@ -432,15 +438,24 @@ Advanced Editors (see sections below)
 
 ### Compilers and Interpreters
 
-## Programming Languages
+# Part III - Programming Languages
 
 ### JavaScript
 ### C++
 ### Python
 ### C
 ### Assembly Language
+### Lisp
 
-## Developer Environment
+Many experienced programmers may be reading this and saying: "Why Lisp? It's such an outdated language, and the specific language I love is so much more important than this one." To that I say: no.
+
+The few languages introduced earlier on in this part cover a good range of programming styles and syntaxes that most people will ever be exposed to. We now introduce Lisp because it is so different from the previously mentioned languages that it will train you to think better as a programmer and computer scientist and less like a hobbyist. More importantly than learning a specific language is being able to pick up any language that a team you want to join or project you want to work on is using. 
+
+However, as with the previous section on Assembly Language, we don't consider this section as optional but, if you're in a hurry, come back to it later on in your education. Or, better yet, skip this section but replace it with a self-guided education in another modernly-unconventional language. Or just go through this section.
+
+With all that ado, let us learn a bit of Lisp.
+
+# PART IV - The Developer Environment
 
 ### The Command Line
 ### Interlude: Buffers, Windows, Screens
