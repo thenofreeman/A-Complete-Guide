@@ -30,14 +30,24 @@
         - [Number System Indicators](#number-system-indicators)
       - [Exercises](#exercises)
       - [Research](#research)
-  - [Introduction to Programming](#introduction-to-programming)
-    - [Basic Concepts](#basic-concepts)
-      - ["Hello, World!"](#hello-world)
-      - [Variables](#variables)
-      - [Data Types](#data-types)
-      - [Control Flow Statements](#control-flow-statements)
-      - [Loops](#loops)
-      - [Functions](#functions)
+- [Part II - Computer Programming](#part-ii---computer-programming)
+  - [Programming Basics](#programming-basics)
+    - ["Hello, World!"](#hello-world)
+        - ["Hello, World!" Examples](#hello-world-examples)
+    - [Variables](#variables)
+        - [Scope](#scope)
+    - [Data Types](#data-types)
+        - [Integers](#integers)
+        - [Floating Point](#floating-point)
+        - [Characters](#characters)
+        - [Strings](#strings)
+        - [Arrays](#arrays)
+        - [Memory Address](#memory-address)
+        - [Objects](#objects)
+        - [Other Types](#other-types)
+    - [Control Flow Statements](#control-flow-statements)
+    - [Loops](#loops)
+    - [Functions](#functions)
     - [Picking a Language](#picking-a-language)
       - [Programming Styles](#programming-styles)
     - [Editors and IDEs](#editors-and-ides)
@@ -168,16 +178,127 @@ Number systems are ...
 
 </div>
 
-## Introduction to Programming
+# Part II - Computer Programming
 
-### Basic Concepts
+## Programming Basics
 
-#### "Hello, World!"
-#### Variables
-#### Data Types
-#### Control Flow Statements
-#### Loops
-#### Functions
+### "Hello, World!"
+
+A "Hello, World!" program is generally the bare-minimum code you need to run for in a language to test if everything is configured properly so that you may begin writing more elaborate programs. 
+
+They generally output some text and optionally get some input from the user.
+
+"Hello, World!" is a notational convention that dates back to the 1970s with the C programming language.
+
+##### "Hello, World!" Examples
+
+Below are a few examples of "Hello, World!" programs in various languages. Examples are introduced in order of appearance in this book, followed by a few other examples in alphabetical order.
+
+C++
+
+```
+#include <iostream>
+
+// This is a comment!
+
+int main()
+{
+  std::cout << "Hello, World!" << std::endl;
+
+  return 0;
+}
+```
+
+Java
+
+```
+// This is a comment!
+
+class Main {
+  public static void main(String[] args) {
+      System.out.println("Hello, World!");
+  }
+}
+```
+
+JavaScript
+
+```
+// This is a comment!
+
+console.log('Hello, World!)
+```
+
+Python
+
+```
+# This is a comment!
+
+print("Hello, World!")
+```
+
+C
+
+```
+#include <stdio.h>
+
+int main() {
+  printf("Hello, World!);
+
+  return 0;
+}
+```
+
+### Variables
+
+##### Scope
+
+### Data Types
+
+##### Integers
+
+```
+42
+```
+
+##### Floating Point
+
+```
+3.14159
+```
+
+##### Characters
+
+```
+'z'
+```
+
+##### Strings
+
+```
+"This is a string"
+```
+
+In a nutshell, strings are just lists of characters in a convenient structure (lists more precisely next section). Some languages define them as Objects, and some as primitive types.
+
+Strings are usually enclosed with double quotes, eg. `"some string"`, but many languages don't strongly distinguish between double (`"`) and single (`'`) quotes. Some languages -- such as JavaScript -- also use back-ticks (`` ` ``) to represent string. 
+
+FYI: The name `string` comes from the idea of "star-ing" characters. This will make more sense soon, but it basically comes down a data type of `char*` denoting a list of character, ie string.
+
+##### Arrays
+
+Arrays, or Lists, are ...
+
+##### Memory Address
+##### Objects
+##### Other Types
+
+Function
+Symbol
+
+### Control Flow Statements
+### Loops
+### Functions
 
 ### Picking a Language
 #### Programming Styles
@@ -200,9 +321,11 @@ Case
 - ccase
 
 ### Editors and IDEs
+
 VSCode
 JetBrains Suite
 Advanced Editors (see sections below)
+
 ### Compilers and Interpreters
 
 ## Programming Languages
