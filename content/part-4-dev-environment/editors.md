@@ -1,3 +1,7 @@
+## Editors
+
+### Interlude: Buffers, Windows, and Screens
+
 ### Vim
 
 ##### What is Vim?
@@ -86,3 +90,9 @@ See the cheatsheet in [More Resources](#more-resources) for a full list of avail
 If still have a taste for what Vim can offer, the next section goes into more use cases and utilities within Vim.
 
 ##### More Resources
+
+### Vim, Continued
+
+##### Searching
+
+### Emacs

@@ -1,0 +1,208 @@
+## Appendix A - Symbols
+
+### Greek Alphabet
+
+<table>
+  <tr>
+    <td>Alpha</td>
+    <td>Α</td>
+    <td>α</td>
+  </tr>
+  <tr>
+    <td>Beta</td>
+    <td>Β</td>
+    <td>β</td>
+  </tr>
+  <tr>
+    <td>Gamma</td>
+    <td>Γ</td>
+    <td>γ</td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+    <td>Δ</td>
+    <td>δ</td>
+  </tr>
+  <tr>
+    <td>Epsilon</td>
+    <td>Ε</td>
+    <td>ε</td>
+  </tr>
+  <tr>
+    <td>Zeta</td>
+    <td>Ζ</td>
+    <td>ζ</td>
+  </tr>
+  <tr>
+    <td>Eta</td>
+    <td>Η</td>
+    <td>η</td>
+  </tr>
+  <tr>
+    <td>Theta</td>
+    <td>Θ</td>
+    <td>θ</td>
+  </tr>
+  <tr>
+    <td>Iota</td>
+    <td>Ι</td>
+    <td>ι</td>
+  </tr>
+  <tr>
+    <td>Kappa</td>
+    <td>Κ</td>
+    <td>κ</td>
+  </tr>
+  <tr>
+    <td>Lambda</td>
+    <td>Λ</td>
+    <td>λ</td>
+  </tr>
+  <tr>
+    <td>Mu</td>
+    <td>Μ</td>
+    <td>μ</td>
+  </tr>
+  <tr>
+    <td>Nu</td>
+    <td>Ν</td>
+    <td>ν</td>
+  </tr>
+  <tr>
+    <td>Xi</td>
+    <td>Ξ</td>
+    <td>ξ</td>
+  </tr>
+  <tr>
+    <td>Omicron</td>
+    <td>Ο</td>
+    <td>ο</td>
+  </tr>
+  <tr>
+    <td>Pi</td>
+    <td>Π</td>
+    <td>π</td>
+  </tr>
+  <tr>
+    <td>Rho</td>
+    <td>Ρ</td>
+    <td>ρ</td>
+  </tr>
+  <tr>
+    <td>Sigma</td>
+    <td>Σ</td>
+    <td>σ</td>
+    <td>ς</td>
+  </tr>
+  <tr>
+    <td>Tao</td>
+    <td>Τ</td>
+    <td>τ</td>
+  </tr>
+  <tr>
+    <td>Upsilon</td>
+    <td>Υ</td>
+    <td>υ</td>
+  </tr>
+  <tr>
+    <td>Phi</td>
+    <td>Φ</td>
+    <td>φ</td>
+  </tr>
+  <tr>
+    <td>Chi</td>
+    <td>Χ</td>
+    <td>χ</td>
+  </tr>
+  <tr>
+    <td>Psi</td>
+    <td>Ψ</td>
+    <td>ψ</td>
+  </tr>
+  <tr>
+    <td>Omega</td>
+    <td>Ω</td>
+    <td>ω</td>
+  </tr>
+</table>
+
+### Mathematical Symbols
+
+<table>
+  <tr>
+    <td>∈</td>
+    <td>Element of</td>
+  </tr>
+  <tr>
+    <td>∉</td>
+    <td>Not an element of</td>
+  </tr>
+  <tr>
+    <td>∀</td>
+    <td>Universal Quantifier (For all)</td>
+  </tr>
+  <tr>
+    <td>∃</td>
+    <td>Existential Quantifier (There exists)</td>
+  </tr>
+  <tr>
+    <td>⇒</</td>
+    <td>If</td>
+  </tr>
+  <tr>
+    <td>⇔</td>
+    <td>If, and only if</td>
+  </tr>
+  <tr>
+    <td>∴</td>
+    <td>Therefore</td>
+  </tr>
+  <tr>
+    <td>∵</td>
+    <td>Because</td>
+  </tr>
+  <tr>
+    <td>|</td>
+    <td>Such that</td>
+  </tr>
+  <tr>
+    <td>:</td>
+    <td>Such that</td>
+  </tr>
+  <tr>
+    <td>,</td>
+    <td>Such that</td>
+  </tr>
+  <tr>
+    <td>∫</td>
+    <td>Integral</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>Derivative</td>
+  </tr>
+  <tr>
+    <td>∂</td>
+    <td>Partial Derivative</td>
+  </tr>
+  <tr>
+    <td>∇</td>
+    <td>Gradient</td>
+  </tr>
+  <tr>
+    <td>lim</td>
+    <td>Limit</td>
+  </tr>
+  <tr>
+    <td>→</td>
+    <td>Approaches</td>
+  </tr>
+  <tr>
+    <td>∞</td>
+    <td>Infinity</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vector</td>
+  </tr>
+</table>
