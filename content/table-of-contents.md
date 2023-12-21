@@ -65,7 +65,8 @@
 ## [Part IX - Applying Your Skills](./part-9-applying-skills/index.md)
 
 37. [Projects](./part-9-applying-skills/projects.md)
-38. [Work](./part-9-applying-skills/work.md)
+38. [Practice](./part-9-applying-skills/practice.md)
+39. [Work](./part-9-applying-skills/work.md)
 
 ## [Appendix](./part-y-appendix/index.md)
 
