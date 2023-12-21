@@ -747,7 +747,87 @@ On-the-Job Skills
   </tr>
 </table>
 
-Maths Symbols
+Common Mathematical Symbols
+
+<table>
+  <tr>
+    <td>∈</td>
+    <td>Element of</td>
+  </tr>
+  <tr>
+    <td>∉</td>
+    <td>Not an element of</td>
+  </tr>
+  <tr>
+    <td>∀</td>
+    <td>Universal Quantifier (For all)</td>
+  </tr>
+  <tr>
+    <td>∃</td>
+    <td>Existential Quantifier (There exists)</td>
+  </tr>
+  <tr>
+    <td>⇒</</td>
+    <td>If</td>
+  </tr>
+  <tr>
+    <td>⇔</td>
+    <td>If, and only if</td>
+  </tr>
+  <tr>
+    <td>∴</td>
+    <td>Therefore</td>
+  </tr>
+  <tr>
+    <td>∵</td>
+    <td>Because</td>
+  </tr>
+  <tr>
+    <td>|</td>
+    <td>Such that</td>
+  </tr>
+  <tr>
+    <td>:</td>
+    <td>Such that</td>
+  </tr>
+  <tr>
+    <td>,</td>
+    <td>Such that</td>
+  </tr>
+  <tr>
+    <td>∫</td>
+    <td>Integral</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>Derivative</td>
+  </tr>
+  <tr>
+    <td>∂</td>
+    <td>Partial Derivative</td>
+  </tr>
+  <tr>
+    <td>∇</td>
+    <td>Gradient</td>
+  </tr>
+  <tr>
+    <td>lim</td>
+    <td>Limit</td>
+  </tr>
+  <tr>
+    <td>→</td>
+    <td>Approaches</td>
+  </tr>
+  <tr>
+    <td>∞</td>
+    <td>Infinity</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vector</td>
+  </tr>
+</table>
+
 ## Other
 - Operating Systems
     - Unix-Like vs DOS
