@@ -46,7 +46,13 @@
         - [Objects](#objects)
         - [Other Types](#other-types)
     - [Control Flow Statements](#control-flow-statements)
+        - [if](#if)
+        - [if-else](#if-else)
+        - [switch](#switch)
     - [Loops](#loops)
+        - [while](#while)
+        - [for](#for)
+        - [for-each](#for-each)
     - [Functions](#functions)
     - [Picking a Language](#picking-a-language)
       - [Programming Styles](#programming-styles)
@@ -305,7 +311,73 @@ Function
 Symbol
 
 ### Control Flow Statements
+
+##### if
+
+```
+if CONDITION:
+  // do something
+```
+
+##### if-else
+
+```
+if CONDITION:
+  // do something
+else 
+  // do something
+```
+
+```
+if CONDITION:
+  // do something
+else if CONDITION:
+  // do something
+else 
+  // do something
+```
+
+##### switch
+
+```
+switch VALUE:
+  case OPTION-1:
+    // do something
+  case OPTION-2:
+    // do something
+  case OPTION-3:
+    // do something
+  default:
+    // do something
+```
+
 ### Loops
+
+Loops are like Control Flow Statements except the statements in their body are repeated until the condition is false.
+
+##### while
+
+```
+while CONDITION:
+  // do something
+```
+
+##### for
+
+```
+for COUNTER = 0...10
+  // do something with COUNTER variable
+```
+
+##### for-each
+
+Some languages also define for-each loops that behave like for-loops except instead of incrementing a counter they iterate through some container like a List or Object.
+
+```
+foreach ITEM in LIST:
+  // do something with ITEM value
+```
+
 ### Functions
 
 ### Picking a Language
