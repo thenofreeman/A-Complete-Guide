@@ -98,6 +98,7 @@
       - [Print-Line Debugging](#print-line-debugging)
     - [Testing](#testing)
     - [Logging](#logging)
+- [Part V - Fields in Computer Science](#part-v---fields-in-computer-science)
   - [Computer Networking](#computer-networking)
   - [The Web](#the-web)
     - [How the Internet Works](#how-the-internet-works)
@@ -106,14 +107,15 @@
     - [JavaScript on the Browser](#javascript-on-the-browser)
     - [ReactJS](#reactjs)
   - [Machine Learning w/ Python](#machine-learning-w-python)
+- [Part VI - Writing Better Software](#part-vi---writing-better-software)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Design Patterns](#design-patterns)
-  - [Mathematics for Computer Science](#mathematics-for-computer-science)
-- [Part XX - Advanced Topic In Computer Science](#part-xx---advanced-topic-in-computer-science)
+- [Part VII - Mathematics for Computer Science](#part-vii---mathematics-for-computer-science)
+- [Part VIII - Advanced Topics In Computer Science](#part-viii---advanced-topics-in-computer-science)
   - [AI, Machine Learning and Data Science](#ai-machine-learning-and-data-science)
   - [Computer Vision](#computer-vision)
   - [Algorithm Analysis](#algorithm-analysis)
-- [Part XX - Applying Your Skills](#part-xx---applying-your-skills)
+- [Part IX - Applying Your Skills](#part-ix---applying-your-skills)
   - [Projects](#projects)
     - [Personal Projects](#personal-projects)
         - [Maintaining Your Project](#maintaining-your-project)
@@ -603,6 +605,8 @@ If still have a taste for what Vim can offer, the next section goes into more us
 ### Testing
 ### Logging
 
+# Part V - Fields in Computer Science
+
 ## Computer Networking
 ## The Web
 ### How the Internet Works
@@ -615,9 +619,12 @@ Scikit-learn
 Pandas
 ...
 
+# Part VI - Writing Better Software
+
 ## Data Structures and Algorithms
 ## Design Patterns
-## Mathematics for Computer Science
+
+# Part VII - Mathematics for Computer Science
 
 College Algebra and Pre-Calculus
 Discrete Mathematics
@@ -633,13 +640,13 @@ Calculus
 Probability
 Statistics
 
-# Part XX - Advanced Topic In Computer Science
+# Part VIII - Advanced Topics In Computer Science
 
 ## AI, Machine Learning and Data Science
 ## Computer Vision
 ## Algorithm Analysis
 
-# Part XX - Applying Your Skills
+# Part IX - Applying Your Skills
 
 ## Projects
 
