@@ -20,28 +20,28 @@
         <th>Example</th>
     </tr>
     <tr>
-        <td>Camel Case<td>
-        <td>camelCase<td>
+        <td>Camel Case</td>
+        <td>camelCase</td>
     </tr>
     <tr>
-        <td>Pascal Case<td>
-        <td>PascalCase<td>
+        <td>Pascal Case</td>
+        <td>PascalCase</td>
     </tr>
     <tr>
-        <td>Snake Case<td>
-        <td>snake_case<td>
+        <td>Snake Case</td>
+        <td>snake_case</td>
     </tr>
     <tr>
-        <td>Kebab Case<td>
-        <td>kebab-case<td>
+        <td>Kebab Case</td>
+        <td>kebab-case</td>
     </tr>
     <tr>
-        <td>Constant Case<td>
-        <td>CONST_CASE<td>
+        <td>Constant Case</td>
+        <td>CONST_CASE</td>
     </tr>
     <tr>
-        <td>C Case<td>
-        <td>ccase<td>
+        <td>C Case</td>
+        <td>ccase</td>
     </tr>
 </table>
 
