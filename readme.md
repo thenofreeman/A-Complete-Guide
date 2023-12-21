@@ -192,7 +192,15 @@ They generally output some text and optionally get some input from the user.
 
 ##### "Hello, World!" Examples
 
-Below are a few examples of "Hello, World!" programs in various languages. Examples are introduced in order of appearance in this book, followed by a few other examples in alphabetical order.
+Below are a few examples of "Hello, World!" programs in various languages. Examples are introduced in order of appearance in this book, followed by a few other examples in alphabetical order. 
+
+Explanations of each language's "Hello, World!" are explained in more detail when the particular language is formally introduced.
+
+Pseudocode
+
+```
+print "Hello, World!"
+```
 
 C++
 
