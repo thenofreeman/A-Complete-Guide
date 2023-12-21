@@ -1,18 +1,7 @@
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Part I - A Introduction to Computer Science](#part-i---a-introduction-to-computer-science)
-- [Part II - Introduction to Computer Programming](#part-ii---introduction-to-computer-programming)
-- [Part III - Programming Languages](#part-iii---programming-languages)
-- [PART IV - The Developer Environment](#part-iv---the-developer-environment)
-- [Part V - Fields in Computer Science](#part-v---fields-in-computer-science)
-- [Part VI - Writing Better Software](#part-vi---writing-better-software)
-- [Part VII - Mathematics for Computer Science](#part-vii---mathematics-for-computer-science)
-- [Part VIII - Advanced Topics In Computer Science](#part-viii---advanced-topics-in-computer-science)
-- [Part IX - Applying Your Skills](#part-ix---applying-your-skills)
-- [Appendix](#appendix)
-- [Answers and Solutions Manual](#answers-and-solutions-manual)
-- [Detailed Table of Contents](#detailed-table-of-contents)
+- [Preface](#preface)
+- [Introduction](#introduction)
 
 ## [Part I - A Introduction to Computer Science](#part-i---a-introduction-to-computer-science)
 
