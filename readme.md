@@ -430,7 +430,6 @@ Advanced Editors (see sections below)
 ### The Command Line
 ### Interlude: Buffers, Windows, Screens
 
-### Emacs
 ### Git
 
 <div style="border: 1px solid grey; border-radius: 8px; padding: 0 1.5em">
