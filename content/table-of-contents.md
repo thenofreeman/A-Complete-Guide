@@ -70,13 +70,13 @@
 
 ## [Appendix](./part-y-appendix/index.md)
 
-1. [Appendix A - Symbols](./part-y-appendix/a-symbols.md)
-2. [Appendix B - A Big List Of Projects](./part-y-appendix/b-project-list.md)
+- [Appendix A - Symbols](./part-y-appendix/a-symbols.md)
+- [Appendix B - A Big List Of Projects](./part-y-appendix/b-project-list.md)
 
 ## [Answers and Solutions Manual](./part-z-solutions/index.md)
 
-1. [Exercises](./part-z-solutions/exercises.md)
-2. [Projects](./part-z-solutions/projects.md)
-3. [Research Questions](./part-z-solutions/research.md)
+- [Exercises](./part-z-solutions/exercises.md)
+- [Projects](./part-z-solutions/projects.md)
+- [Research Questions](./part-z-solutions/research.md)
 
 ## Detailed Table of Contents
