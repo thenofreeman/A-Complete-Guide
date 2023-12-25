@@ -1,8 +1,6 @@
 ## Table of Contents
 
-## Detailed Table of Contents
-
-### Front
+### [Front](./front/index.md)
 
 - [Preface](./preface.md)
 - [Introduction](./introduction.md)
@@ -49,54 +47,30 @@
 ### [Part VI - Writing Better Software](./part-6-writing-better-software.md/index.md)
 
 25. [Data Structures and Algorithms](./part-6-writing-better-software.md/data-strucutres-algorithms.md)
-
-    1. [Introduction to Algorithms](./part-6-writing-better-software.md/data-strucutres-algorithms.md#introduction-to-algorithms)
-    2. [Searching](./part-6-writing-better-software.md/data-strucutres-algorithms.md#searching)
-    3. [Sorting](./part-6-writing-better-software.md/data-strucutres-algorithms.md#sorting)
-    4. [More Common Algorithms](./part-6-writing-better-software.md/data-strucutres-algorithms.md#more-algorithms)
-    5. [Introduction to Data Structures](./part-6-writing-better-software.md/data-strucutres-algorithms.md#introduction-to-data-structures)
-    6. [...](./part-6-writing-better-software.md/data-strucutres-algorithms.md#)
-    7. [More Common Data Structures](./part-6-writing-better-software.md/data-strucutres-algorithms.md#more-data-structures)
-
 26. [Design Patterns](./part-6-writing-better-software.md/design-patterns.md)
-
-    1. [Introduction to Design Patterns](./part-6-writing-better-software.md/design-patterns.md#introduction)
-    2. [Command Pattern](./part-6-writing-better-software.md/design-patterns.md#command)
-    3. [Flyweight Pattern](./part-6-writing-better-software.md/design-patterns.md#flyweight)
-    4. [More Patterns](./part-6-writing-better-software.md/design-patterns.md#more-patterns)
-
 27. [Programming Philosophy](./part-6-writing-better-software.md/prog-philosophy.md)
 28. [Intermediate Language Skills](./part-6-writing-better-software.md/intermeditate-language.md)
-
-    1. [C++](./part-6-writing-better-software.md/intermeditate-language.md#cpp)
-    2. [Python](./part-6-writing-better-software.md/intermeditate-language.md#python)
-    3. [JavaScript](./part-6-writing-better-software.md/intermeditate-language.md#javascript)
-    4. [C](./part-6-writing-better-software.md/intermeditate-language.md#c)
-
 29. [Intermediate Developer Skills](./part-6-writing-better-software.md/intermeditate-developer.md)
-
-    1. [Git](./part-6-writing-better-software.md/intermeditate-developer.md#git)
-    1. [Vim](./part-6-writing-better-software.md/intermeditate-developer.md#vim)
 
 ### [Part VII - Mathematics for Computer Science](./part-7-mathematics-for-cs/index.md)
 
-28. [Discrete Mathematics](./part-7-mathematics-for-cs/discrete-mathematics.md)
-29. [Algebra and Trigonometry](./part-7-mathematics-for-cs/algebra-and-trig.md)
-30. [Linear Algebra](./part-7-mathematics-for-cs/linear-algebra.md)
-31. [Calculus](./part-7-mathematics-for-cs/calculus.md)
-32. [Probability and Statistics](./part-7-mathematics-for-cs/prob-and-stats.md)
+30. [Discrete Mathematics](./part-7-mathematics-for-cs/discrete-mathematics.md)
+31. [Algebra and Trigonometry](./part-7-mathematics-for-cs/algebra-and-trig.md)
+32. [Linear Algebra](./part-7-mathematics-for-cs/linear-algebra.md)
+33. [Calculus](./part-7-mathematics-for-cs/calculus.md)
+34. [Probability and Statistics](./part-7-mathematics-for-cs/prob-and-stats.md)
 
 ### [Part VIII - Advanced Topics In Computer Science](./part-8-advanced-cs-topics/index.md)
 
-33. [AI, Machine Learning and Data Science](./part-8-advanced-cs-topics/xxxxxxxxxx)
-34. [Computer Vision](./part-8-advanced-cs-topics/xxxxxxxxxx)
-36. [Algorithm Analysis](./part-8-advanced-cs-topics/xxxxxxxxxx)
+35. [AI, Machine Learning and Data Science](./part-8-advanced-cs-topics/xxxxxxxxxx)
+36. [Computer Vision](./part-8-advanced-cs-topics/xxxxxxxxxx)
+38. [Algorithm Analysis](./part-8-advanced-cs-topics/xxxxxxxxxx)
 
 ### [Part IX - Applying Your Skills](./part-9-applying-skills/index.md)
 
-37. [Projects](./part-9-applying-skills/projects.md)
-38. [Practice](./part-9-applying-skills/practice.md)
-39. [Work](./part-9-applying-skills/work.md)
+39. [Projects](./part-9-applying-skills/projects.md)
+40. [Practice](./part-9-applying-skills/practice.md)
+41. [Work](./part-9-applying-skills/work.md)
 
 ### [Appendix](./part-y-appendix/index.md)
 
@@ -110,6 +84,8 @@
 - [Projects](./part-z-solutions/projects.md)
 - [Research Questions](./part-z-solutions/research.md)
 
-### Back
+### [Back](./back/index.md)
 
 - [Index]()
+
+## Detailed Table of Contents
