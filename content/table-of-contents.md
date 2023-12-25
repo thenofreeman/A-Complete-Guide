@@ -28,7 +28,7 @@
 13. [Assembly Language](./part-3-prog-languages/assembly.md)
 14. [Wrapping Up](./part-3-prog-languages/end-of-section.md)
 
-### [PART IV - The Developer Environment](./part-4-dev-environment/index.md)
+### [Part IV - The Developer Environment](./part-4-dev-environment/index.md)
 
 15. [Operating Systems](./part-4-dev-environment/operating-systems.md)
 16. [The Command Line](./part-4-dev-environment/command-line.md)
