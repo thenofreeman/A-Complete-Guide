@@ -64,13 +64,13 @@
 
 35. [AI, Machine Learning and Data Science](./part-8-advanced-cs-topics/xxxxxxxxxx)
 36. [Computer Vision](./part-8-advanced-cs-topics/xxxxxxxxxx)
-38. [Algorithm Analysis](./part-8-advanced-cs-topics/xxxxxxxxxx)
+37. [Algorithm Analysis](./part-8-advanced-cs-topics/xxxxxxxxxx)
 
 ### [Part IX - Applying Your Skills](./part-9-applying-skills/index.md)
 
-39. [Projects](./part-9-applying-skills/projects.md)
-40. [Practice](./part-9-applying-skills/practice.md)
-41. [Work](./part-9-applying-skills/work.md)
+38. [Projects](./part-9-applying-skills/projects.md)
+39. [Practice](./part-9-applying-skills/practice.md)
+40. [Work](./part-9-applying-skills/work.md)
 
 ### [Appendix](./part-y-appendix/index.md)
 
